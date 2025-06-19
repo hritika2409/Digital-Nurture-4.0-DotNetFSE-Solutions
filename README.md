@@ -4,15 +4,15 @@
 
 ```
 Digital-Nurture-4.0-DotNetFSE-Solutions/
-├── WEEK-1 Engineering Data Structures and Algorithms/
-│   ├── Algorithms_Data Structures/
+
+│   ├──WEEK-1 Algorithms_Data Structures/
 │   │   └── 1_Ecommerce Platform Search Function/
 │   │       ├── code/
 │   │       └── output/
 │   └── 2_Financial Forecasting/
 │       ├── code/
 │       └── output/
-├── Design Patterns and Principles/
+├──WEEK-1 Design Patterns and Principles/
 │   ├── 1_SingletonPattern/
 │   │   ├── code/
 │   │   └── output/
