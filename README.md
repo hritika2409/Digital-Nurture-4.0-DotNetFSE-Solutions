@@ -93,7 +93,6 @@ Digital-Nurture-4.0-DotNetFSE-Solutions/
 Each module contains:
 - **`/code`** - Complete source code implementations
 - **`/output`** - Sample outputs and results
-- Detailed comments and documentation within code files
 
 ## 🏆 Current Focus Areas
 
@@ -148,8 +147,3 @@ This repository currently demonstrates mastery in:
 **Files:**
 - `code/` - Financial analysis algorithms in C#
 - `output/` - Forecasting results and data visualizations
-
-
-
-
-
