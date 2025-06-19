@@ -63,44 +63,34 @@ Digital-Nurture-4.0-DotNetFSE-Solutions/
    # Run the executable
    ./Program.exe
    ```
-   
-📚 Current Modules
-Week 1: Engineering Data Structures and Algorithms
-Algorithms & Data Structures
 
-1_Ecommerce Platform Search Function
+## 📚 Current Modules
 
-Implementation of efficient search algorithms for e-commerce platforms
-Focus on optimizing search performance and user experience
-Includes both source code and output demonstrations
+### Week 1: Engineering Data Structures and Algorithms
 
+#### Algorithms & Data Structures
+- **1_Ecommerce Platform Search Function**
+  - Implementation of efficient search algorithms for e-commerce platforms
+  - Focus on optimizing search performance and user experience
+  - Includes both source code and output demonstrations
 
-2_Financial Forecasting
+- **2_Financial Forecasting**
+  - Data structure implementations for financial data analysis
+  - Algorithms for predictive modeling and trend analysis
+  - Complete solutions with working examples
 
-Data structure implementations for financial data analysis
-Algorithms for predictive modeling and trend analysis
-Complete solutions with working examples
+#### Design Patterns and Principles
+- **1_SingletonPattern**
+  - Implementation of the Singleton design pattern
+  - Ensuring single instance creation and global access
+  - Thread-safe implementations and best practices
 
-
-
-Design Patterns and Principles
-
-1_SingletonPattern
-
-Implementation of the Singleton design pattern
-Ensuring single instance creation and global access
-Thread-safe implementations and best practices
-
-
-2_FactoryMethodPattern
-
-Factory Method pattern implementation
-Object creation without specifying exact classes
-Flexible and extensible object instantiation
-
-
+- **2_FactoryMethodPattern**
+  - Factory Method pattern implementation
+  - Object creation without specifying exact classes
+  - Flexible and extensible object instantiation
 
 Each module contains:
+- **`/code`** - Complete source code implementations
+- **`/output`** - Sample outputs and results
 
-/code - Complete source code implementations
-/output - Sample outputs and results
