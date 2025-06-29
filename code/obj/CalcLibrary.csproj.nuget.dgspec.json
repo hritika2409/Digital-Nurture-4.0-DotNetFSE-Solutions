@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-Solutions\\Week-2_NUnit and MOQ\\2_Moq-HandsOn\\code\\CalcLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-Solutions\\Week-2_NUnit and MOQ\\2_Moq-HandsOn\\code\\CalcLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-Solutions\\Week-2_NUnit and MOQ\\2_Moq-HandsOn\\code\\CalcLibrary.csproj",
+        "projectName": "CalcLibrary",
+        "projectPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-Solutions\\Week-2_NUnit and MOQ\\2_Moq-HandsOn\\code\\CalcLibrary.csproj",
+        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-Solutions\\Week-2_NUnit and MOQ\\2_Moq-HandsOn\\code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
